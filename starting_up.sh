@@ -12,4 +12,5 @@ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk
 export PATH=$PATH:/usr/lib/jvm/java-8-openjdk/bin
 javac -version
 sudo tar -xvf spring-tool-suite-3.9.2.RELEASE-e4.7.2-linux-gtk-x86_64.tar.gz
+sudo apt-get install maven
 
